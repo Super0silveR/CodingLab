@@ -2,3 +2,5 @@ In order to make sure that I am able to program and have the correct environemen
 
 When the setup is complete lets do 6 tests : Hello World, Basic calculs, If conditions, Loops and functions.
 Then let's do some language specific adjustements to explore.
+
+By 22/10/24 I decided to add Bash, Haskell and SQL in order to diversify even more my laboratory
