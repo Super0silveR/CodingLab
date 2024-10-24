@@ -16,3 +16,5 @@ Compiler : g++ nomDuFichier.cpp -o nomDuFichier
 Lancer : ./nomDuFichier
 
 Et voilà le tour est joué!
+
+J'ai fini par completer le tutoriel, et faire les fonctions dont j'avais besoin. Ca devient du gateau quand c'est completé.
